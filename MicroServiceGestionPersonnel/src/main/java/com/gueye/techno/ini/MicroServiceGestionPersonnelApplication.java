@@ -8,5 +8,6 @@ public class MicroServiceGestionPersonnelApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MicroServiceGestionPersonnelApplication.class, args);
+		System.out.println("Testing Git");
 	}
 }
